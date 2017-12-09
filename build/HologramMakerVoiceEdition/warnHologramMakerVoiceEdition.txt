@@ -1,0 +1,30 @@
+missing module named resource - imported by posix, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named posix - imported by os, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named _posixsubprocess - imported by subprocess, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named 'org.python' - imported by pickle, F:\test\okay\HologramMakerVoiceEdition.py, xml.sax
+missing module named ce - imported by os, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named readline - imported by cmd, code, pdb, F:\test\okay\HologramMakerVoiceEdition.py
+excluded module named _frozen_importlib - imported by importlib, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named 'java.lang' - imported by platform, F:\test\okay\HologramMakerVoiceEdition.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named termios - imported by tty, getpass, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named urllib.urlencode - imported by urllib, speech_recognition
+missing module named grp - imported by tarfile, shutil, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named _dummy_threading - imported by dummy_threading, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named org - imported by copy, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, getpass, F:\test\okay\HologramMakerVoiceEdition.py
+missing module named monotonic - imported by speech_recognition
+missing module named 'googleapiclient.http' - imported by speech_recognition
+missing module named 'googleapiclient.errors' - imported by speech_recognition
+missing module named googleapiclient - imported by speech_recognition
+missing module named oauth2client - imported by speech_recognition
+missing module named pocketsphinx.Jsgf - imported by pocketsphinx, speech_recognition
+missing module named pocketsphinx.FsgModel - imported by pocketsphinx, speech_recognition
+missing module named snowboydetect - imported by speech_recognition
+missing module named urllib2 - imported by speech_recognition
+missing module named Tkinter - imported by PIL.ImageTk
+missing module named _imaging_gif - imported by PIL.GifImagePlugin
+missing module named cffi - imported by PIL.Image, PIL.PyAccess
+missing module named __builtin__ - imported by PIL.Image
