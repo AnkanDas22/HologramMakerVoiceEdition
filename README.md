@@ -2,11 +2,9 @@
 
 Make Hologram images suitable for viewing through mobile screens or projectors simply by following the instructions in the application!
 
-
 Fully compiled and built application executable!
 
-
-Just download ALL the files and run the application from dist\HologramMakerVoiceEdition.exe
+Just download ALL the files and run the application using RunHologramMakerVoiceEdition.bat
 
 Follow instructions given in the application for following through how to make generate the hologram from your given image path!
 
