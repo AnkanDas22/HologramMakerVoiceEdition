@@ -1,0 +1,1 @@
+START ./dist/HologramMakerVoiceEdition/HologramMakerVoiceEdition.exe
