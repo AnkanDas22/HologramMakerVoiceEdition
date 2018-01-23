@@ -29,9 +29,8 @@
 								|____________|
 
 
->>Fully coded and built by Ankan Das, ankandas2222@gmail.com, @RektAlter
+>>Fully coded and built by Ankan Das, ankandas2222@gmail.com, @RektAlter, https://github.com/AnkanDas22
 
-, https://github.com/AnkanDas22
->>Run application from dist\HologramMakerVoiceEdition.exe
+>>Run application from dist\HologramMakerVoiceEdition\HologramMakerVoiceEdition.exe or using RunHologramMakerVoiceEdition.bat
 
->>For easier access, just right click on "HologramMakerVoiceEdition.exe" and select "Send to->Desktop (Create Shortcut)"
+>>For easier access, just right click on "HologramMakerVoiceEdition.exe" or "RunHologramMakerVoiceEdition.bat" and select "Send to->Desktop (Create Shortcut)"
